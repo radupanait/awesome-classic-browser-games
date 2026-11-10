@@ -23,6 +23,7 @@ Contributions are welcome, see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 - [247 Solitaire](https://www.247solitaire.com/) - Klondike, Spider and FreeCell with many seasonal themes.
 - [CardGames.io Solitaire](https://cardgames.io/solitaire/) - Clean Klondike with a simple interface.
+- [Deck Games Solitaire](https://deckgames.io/solitaire) - Free Klondike (Turn 1 or Turn 3), FreeCell, Spider, Pyramid and many other solitaire games, with unlimited undo and no account needed.
 - [Green Felt](https://greenfelt.net/) - Long-running site with dozens of solitaire variants and daily scores.
 - [NitroPlayer Solitaire](https://nitroplayer.com/games/solitaire/) - Klondike, Spider, FreeCell and Pyramid with big cards, a daily deal and a phone-friendly layout.
 - [Solitaired](https://solitaired.com/) - Hundreds of solitaire variants with guides.
@@ -31,6 +32,7 @@ Contributions are welcome, see [CONTRIBUTING.md](CONTRIBUTING.md).
 ## Card games
 
 - [CardGames.io](https://cardgames.io/) - Hearts, Spades, Gin Rummy, Euchre and more against the computer.
+- [Deck Games](https://deckgames.io/) - Free Hearts, Spades, Euchre, Cribbage, Gin Rummy and other card games against the computer, no account needed.
 - [NitroPlayer card games](https://nitroplayer.com/card-games/) - Hearts, Spades, Gin Rummy, Blackjack and Texas Hold'em, solo or with real players.
 - [PlayOK](https://www.playok.com/) - Large multiplayer card and board game rooms.
 - [Trickster Cards](https://www.trickstercards.com/) - Multiplayer trick-taking games with friends.
@@ -39,6 +41,7 @@ Contributions are welcome, see [CONTRIBUTING.md](CONTRIBUTING.md).
 ## Mahjong
 
 - [247 Mahjong](https://www.247mahjong.com/) - Mahjong solitaire with many layouts.
+- [Deck Games Mahjong](https://deckgames.io/mahjong) - Free Mahjong solitaire in the browser, no account needed.
 - [NitroPlayer Mahjong](https://nitroplayer.com/games/mahjong/) - Mahjong solitaire with large tiles and a daily layout.
 
 ## Sudoku
