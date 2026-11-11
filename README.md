@@ -17,6 +17,7 @@ Contributions are welcome, see [CONTRIBUTING.md](CONTRIBUTING.md).
 - [Minesweeper](#minesweeper)
 - [Play with a friend online](#play-with-a-friend-online)
 - [Daily puzzles](#daily-puzzles)
+- [Jigsaw](#jigsaw)
 - [Rules and strategy](#rules-and-strategy)
 
 ## Solitaire
@@ -77,6 +78,11 @@ Sites where you can send someone a link and play the same game together.
 
 - [NitroPlayer Daily](https://nitroplayer.com/daily/) - A daily Sudoku, Solitaire, Wordle-style word, Mahjong and Word Search, the same for everyone.
 - [Sudoku.com daily challenges](https://sudoku.com/challenges/daily-sudoku) - One Sudoku per day with monthly trophies.
+
+
+## Jigsaw
+
+- [JigsawPop](https://jigsawpop.com/) - Free online jigsaws with a daily puzzle and a photo puzzle maker, no account or download required.
 
 ## Rules and strategy
 
