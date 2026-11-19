@@ -71,6 +71,7 @@ Sites where you can send someone a link and play the same game together.
 - [Lichess](https://lichess.org/) - Challenge a friend to chess by link.
 - [NitroPlayer](https://nitroplayer.com/games-with-friends/) - Send a private link and play Checkers, Connect 4, Backgammon, Word Search and more together. No account for either player.
 - [PlayOK](https://www.playok.com/) - Create a table and invite a friend.
+- [Puffer Party](https://pufferparty.org/) - Create a private room so friends can take turns naming category answers and passing a pufferfish.
 - [World of Card Games](https://worldofcardgames.com/) - Private tables for card games with friends.
 
 ## Daily puzzles
