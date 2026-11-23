@@ -40,6 +40,7 @@ Contributions are welcome, see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 - [247 Mahjong](https://www.247mahjong.com/) - Mahjong solitaire with many layouts.
 - [NitroPlayer Mahjong](https://nitroplayer.com/games/mahjong/) - Mahjong solitaire with large tiles and a daily layout.
+- [SolitairePlace Mahjong Solitaire](https://solitaireplace.com/play/mahjong/) - Mahjong solitaire where every board can be cleared, with hints, undo and no timer.
 
 ## Sudoku
 
